@@ -13,12 +13,9 @@
 ```
 https://www.w3schools.com/html/default.asp
 ```
-
 ```
 https://livrosdomaujor.com.br/html/index.php
 ```
-
-
 >2.CSS  - Linguagem de **estilização** (cores,fontes,background...) <br>
 
 ```
@@ -36,9 +33,6 @@ https://www.w3schools.com/js/default.asp
 ```
 https://docs.microsoft.com/pt-br/learn/modules/introduction-to-github/
 ```
-
-
-
 >5.*Lógica de Programação* Aplicada ao JavaScript<br>
 
 **Racha Cuca**
