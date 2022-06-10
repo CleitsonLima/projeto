@@ -3,6 +3,8 @@
     width: 100%;
     height: 100%;
     border: 1px solid black;
+    background-color: #1673be;
+    color: #ffffff;
 }
 /* Altera o corpo do site */
 body{
@@ -13,12 +15,12 @@ h1{
     text-align: center;
 }
 
-
-#menu{
+#divmenu{
     text-align: center;
-    width: 90%;
-    height: 90%;
-    border: 1px solid red;
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    text-transform: uppercase;
 }
 
 li{
