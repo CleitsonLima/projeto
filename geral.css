@@ -2,22 +2,23 @@ body{
     background-color:cornsilk;
 }
 
-#equipe{
-    background-color: blue;
+h1{
+    text-align: center;
 }
-
-#projeto{
-    background-color: blueviolet;
-}
-
 ul{
-    background-color: aliceblue;
+    text-align: center;
+    width: 90%;
+    height: 90%;
+    border: 1px solid red;
 }
+
 li{
-    background-color: antiquewhite;
+    display: inline;
+    
 }
 li a {
-    background-color: bisque;
+    text-decoration: dashed;
+    padding-left: 5%;
 }
 p{
     text-align:justify;
