@@ -20,5 +20,6 @@ li a {
     background-color: bisque;
 }
 p{
+    text-align:justify;
     font-size: 16px;
 }
