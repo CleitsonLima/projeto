@@ -1,6 +1,5 @@
-/* Primeira forma*/
 body{
-    background-color: rgb(168, 151, 151);
+    background-color:cornsilk;
 }
 
 #equipe{
@@ -9,4 +8,8 @@ body{
 
 #projeto{
     background-color: blueviolet;
+}
+
+p{
+    font-size: 16px;
 }
