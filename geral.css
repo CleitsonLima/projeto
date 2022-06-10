@@ -31,6 +31,12 @@ li a {
     text-decoration: dashed;
     padding-left: 5%;
 }
+ul li a:hover{
+  
+   
+    background-color: coral;
+   
+}
 p{
     text-align:center;
     font-size: 16px;
