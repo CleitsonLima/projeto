@@ -11,8 +11,10 @@
 #logo{
     width: 100%;
     height: 80px;
+    display: inline;
     text-align:left;
     font-size: 12px;
+    
 }
 /* Altera o corpo do site */
 body{
@@ -37,7 +39,7 @@ ul li a {
 }
 
 ul li a:hover{    
-    background-color: black;   
+    color: black; 
 }
 
 p{
