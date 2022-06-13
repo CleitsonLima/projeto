@@ -6,7 +6,13 @@
     background-color: #1673be;
     color: #ffffff;
     text-transform: uppercase;
-    text-align: center;
+    text-align: justify;
+}
+#logo{
+    width: 100%;
+    height: 80px;
+    text-align:left;
+    font-size: 12px;
 }
 /* Altera o corpo do site */
 body{
@@ -41,7 +47,7 @@ p{
 
 #principal{
     width: 100%;
-    height: 500px;
+    height: 700px;
     border: 1px solid black;
 
 }
