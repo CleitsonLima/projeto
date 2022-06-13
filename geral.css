@@ -5,40 +5,51 @@
     border: 1px solid black;
     background-color: #1673be;
     color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
 }
 /* Altera o corpo do site */
 body{
-    background-color:cornsilk;
-    
+    background-color:cornsilk;    
 }
 
-h1{
-    text-align: center;
+ul{
+    width:100%;
+    height:17px; 
+       
 }
 
-#divmenu{
-    text-align: center;
-    width: 100%;
-    height: 100%;
-    border: 1px solid black;
-    text-transform: uppercase;
+ul li{ 
+   display: inline;
+   padding-left: 3%;
 }
 
-li{
-    display: inline;
-    
+ul li a {
+    text-decoration: none;
+    padding-left: 3%;
+    color: #ffffff;
 }
-li a {
-    text-decoration: dashed;
-    padding-left: 5%;
+
+ul li a:hover{    
+    background-color: black;   
 }
-ul li a:hover{
-  
-   
-    background-color: coral;
-   
-}
+
 p{
     text-align:center;
     font-size: 16px;
+}
+
+#principal{
+    width: 100%;
+    height: 500px;
+    border: 1px solid black;
+
+}
+
+#rodape{
+    width: 100%;
+    height: 100%;    
+    border: 1px solid black;
+    text-align: center;
+    font-size: 12px;
 }
