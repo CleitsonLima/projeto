@@ -22,7 +22,7 @@
 nav{
     position: absolute;
     top: 20px;
-    left: 100px;
+    left: 500px;
 }
 nav img{
     width: 18px;
@@ -53,7 +53,11 @@ ul li a {
 ul li a:hover{    
     color: black; 
 }
-
+#titulo{
+    text-align: left;
+    font-size: 14px;
+    margin-left: 20px;
+}
 p{
     text-align:center;
     font-size: 16px;
@@ -74,6 +78,6 @@ p{
     font-size: 12px;
 }
 
-form{
+#busca{
     text-align: right;
 }
