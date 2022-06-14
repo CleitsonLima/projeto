@@ -5,9 +5,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Caneca Nerd</title>
+
     <link rel="stylesheet" type="text/css" href="geral.css"/>
     <link rel="stylesheet" type="text/css" href="reset.css"/>
+
+    <script type="text/javascript" src="bibliotecas/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="plugins/coin-slider.min.js"></script>
+    <link rel="stylesheet" href="plugins/coin-slider-styles.css" type="text/css" />
+
+
     <!--Exemplo de css interno
     <style>
         ul{
@@ -42,7 +50,31 @@
     </div>   
 
     <main>
-
+        <div id='coin-slider'>
+            <a href="" target="_blank">
+                <img src='imagens/mug.jpg' >
+                <span>
+                    code
+                </span>
+            </a>
+            <a href="">
+                <img src='imagens/mug1.jpg' >
+                <span>
+                    there is no place like home
+                </span>
+            </a>
+            <a href="imagens/mug2.jpg">
+                <img src='imagens/mug2.jpg' >
+                <span>
+                    brain not found
+                </span>
+            </a>
+        </div>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('#coin-slider').coinslider();
+            });
+        </script>
     </main>
     
 
